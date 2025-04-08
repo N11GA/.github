@@ -2,7 +2,7 @@
 
 🙋‍♀️ N11GA (Newbie 1 1 Game Author)
 🌈 Currently this organization only accept 2 people since we don't have any plan to widen our reach.
-🍿 We start with GODOT!
+🍿 We start with GODOT!!!
 
 <!--
 
